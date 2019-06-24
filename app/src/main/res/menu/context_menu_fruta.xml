@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/borrar_fruta"
+        android:title="Borrar" />
+
+    <item
+        android:id="@+id/reset_cantidad"
+        android:title="Restablecer Cantidad" />
+</menu>
