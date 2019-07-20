@@ -8,7 +8,7 @@ Aplicativo android listado de frutas usando CardView y RecyclerView con adaptado
 -	Cada opcion actualiza la el listado en tiempo real.
 
 <img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/1.jpeg">
-<img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/2.jpeg">
-<img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/3.jpeg">
-<img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/4.jpeg">
-<img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/5.jpeg">
+<img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/2.png">
+<img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/3.png">
+<img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/4.png">
+<img src="https://github.com/namelessbliss/FrutiMundo/blob/master/capturas/5.png">
